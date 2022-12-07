@@ -1,0 +1,14 @@
+.high-scores{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+.time-left{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+.start-div{
+    text-align: center;
+}
